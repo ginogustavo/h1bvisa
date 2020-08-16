@@ -13,3 +13,10 @@ The Data Analysis revise the various trends in the H1b Visa dataset. There are t
 
 ## Data Set:
 The data source for the project has been collected from the Office of Foreign Labor Certification (OFLC). It provides insight into each petition with information such as the Job title, Wage, Employer, Worksite location, etc
+
+## Outcome
+![img](graphs/TopEmployeers.png) 
+![img](graphs/JobDistribution.png) 
+![img](graphs/LevelEducation.png) 
+![img](graphs/ExecutiveOrder.png) 
+
